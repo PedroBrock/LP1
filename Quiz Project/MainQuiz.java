@@ -1,6 +1,3 @@
-/* Nome: Pedro Luccas de Brito Brock
- * Matricula: 2020007985
- */
 import java.util.Scanner;
 public class MainQuiz { // Main que executa o quiz
 
